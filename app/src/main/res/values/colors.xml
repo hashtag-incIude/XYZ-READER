@@ -1,0 +1,8 @@
+
+<resources>
+    <color name="theme_primary">#3160EF</color>
+    <color name="theme_primary_dark">#184FF4</color>
+    <color name="theme_accent">#FFC107</color>
+    <color name="ltgray">#37474F</color>
+    <color name="photo_placeholder">#ccc</color>
+</resources>

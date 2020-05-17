@@ -1,0 +1,9 @@
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/theme_accent" />
+        </shape>
+    </item>
+    <item android:drawable="@drawable/white_selectable_item_background_circle" />
+</layer-list>
